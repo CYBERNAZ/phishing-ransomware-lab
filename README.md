@@ -49,3 +49,19 @@ This project simulates a real-world phishing attack leading to a ransomware infe
 - SIEM integration (ELK / Security Onion)  
 - Automated detection rules  
 - Advanced attack simulations
+## Screenshots
+
+### Phishing Email
+![Phishing](Phishing Email.png)
+
+### Malicious Payload Execution
+![Payload](MaliciousPayload download via Internet Explorer.png)
+
+### Meterpreter Session
+![Session](Metasploit Handler in session.png)
+
+### Network Evidence
+![Network](Evidence Netstat.png)
+
+### Log Analysis
+![Logs](Reviewing Application logs.png)
