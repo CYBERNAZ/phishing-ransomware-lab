@@ -52,16 +52,16 @@ This project simulates a real-world phishing attack leading to a ransomware infe
 ## Screenshots
 
 ### Phishing Email
-![Phishing](Phishing Email.png)
+![Phishing](phishing-email.png)
 
 ### Malicious Payload Execution
-![Payload](MaliciousPayload download via Internet Explorer.png)
+![Payload](malicious-payload.png)
 
 ### Meterpreter Session
-![Session](Metasploit Handler in session.png)
+![Session](meterpreter-session.png)
 
 ### Network Evidence
-![Network](Evidence Netstat.png)
+![Network](network-evidence.png)
 
 ### Log Analysis
-![Logs](Reviewing Application logs.png)
+![Logs](logs.png)
