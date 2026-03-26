@@ -1,4 +1,4 @@
-# Phishing & Ransomware Attack Simulation Lab
+# Phishing to ransomware attack simulation(purple team lab)
 
 ## Overview
 This project simulates a real-world phishing attack leading to a ransomware infection in a controlled lab environment. The objective was to understand attacker techniques, detect malicious activity, and perform incident response.
